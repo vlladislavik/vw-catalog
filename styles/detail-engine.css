@@ -1,0 +1,104 @@
+a {
+    text-decoration: none;
+}
+
+#title {
+    font-size: 72px;
+}
+
+.tech-spec {
+    margin-top: 30px;
+}
+
+.specs-table {
+    margin-top: 40px;
+}
+
+.spec-type {
+   display: inline-block;
+   background-color: #005BAA;
+   margin: 0 0 0 0;
+}
+
+.spec-info {
+    display: inline-block;
+    background-color: white;
+    margin: 0 0 0 0;
+}
+
+.engine-description {
+    margin-top: 70px;
+}
+
+.type-text {
+    color: white
+}
+
+.col-2-spec {
+    display: inline-block;
+}
+
+.cars-with-engine {
+    margin-top: 70px;
+}
+
+#which-cars {
+    margin-bottom: 60px;
+}
+
+.road-type {
+    display: inline-block;
+    background-color: #005BAA;
+    color: white;
+}
+
+.consump {
+    display: inline-block;
+}
+
+#brand-h {
+    font-weight: 500 !;
+}
+
+.car-model {
+    background-color: #005BAA;
+    color: white;
+}
+
+.list {
+    border: solid;
+    border-width: 2px;
+}
+
+.list-li {
+    list-style-type: disc;
+}
+
+.add-review {
+    margin: 40px 0;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+}
+
+.review {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.review small {
+    color: #6c757d;
+    font-size: 0.8em;
+}
+
+.form-control, .form-select {
+    margin-bottom: 15px;
+}
+
+.btn-primary {
+    background-color: #005BAA;
+    border-color: #005BAA;
+}

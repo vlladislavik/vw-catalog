@@ -1,0 +1,33 @@
+.hello {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    object-fit: contain;
+}
+
+.liter {
+    background-color: #005BAA;
+    text-align: center;
+    color: white;
+}
+
+.serial-num {
+    text-align: center;
+    border: solid;
+    border: black;
+    border-width: 2px;
+}
+
+.serial-num a {
+    text-decoration: none;
+    color: black;
+}
+
+.serial-num a:hover {
+    color: black;
+}
+
+#under-text {
+    font-size: 32px;
+}

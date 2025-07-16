@@ -1,0 +1,20 @@
+.info {
+    display: flex;
+}
+
+.liter {
+    display: inline-block;
+}
+
+.engine-index {
+    display: inline-block;
+}
+
+
+.info img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    object-fit: contain;
+}
